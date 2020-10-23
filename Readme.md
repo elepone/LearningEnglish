@@ -19,3 +19,10 @@
 ### 2020-10-22
 #### 听
 1. [New iPad Air (2020) review](https://www.youtube.com/watch?v=EMwrJjyKzR4)
+2. [The new iPad Air is IMPRESSIVE](https://www.youtube.com/watch?v=A3gUdaSEI0c)
+#### 说
+20201022.m4a
+
+### 2020-10-23
+#### 听
+1. Second 2020 Presidential Debate between Donald Trump and Joe Biden
