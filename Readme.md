@@ -26,3 +26,17 @@
 ### 2020-10-23
 #### 听
 1. Second 2020 Presidential Debate between Donald Trump and Joe Biden
+
+#### 读
+1. [Swift Closures](https://www.programiz.com/swift-programming/closures)
+
+### 2020-10-24
+看电视剧《继承之战》
+
+### 2020-10-25
+#### 读
+1. The invisible island (chapter 1-5)
+
+### 2020-10-26
+#### 听
+1. Bookmarks S01E01
