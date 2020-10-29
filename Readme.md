@@ -40,3 +40,21 @@
 ### 2020-10-26
 #### 听
 1. Bookmarks S01E01
+2. [Swift Observer & Notification Pattern Tutorial](https://www.youtube.com/watch?v=srqiDnLEocA)
+#### 读
+1. I can tell by touching.
+
+### 2020-10-27
+#### 听
+1. [The Bachelor - SNL](https://www.youtube.com/watch?v=U_mj1CuXrPE)
+2. [American Accent Rules and US Presidential Election](https://www.youtube.com/watch?v=kKVXi4EtrpA)
+#### 说
+2020-10-27.m4a
+
+### 2020-10-29
+#### 听
+1. Friends S04E01
+2. Jeff Flake cuts an ad for Joe Biden
+
+#### 说
+2020-10-29.m4a
