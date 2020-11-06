@@ -8,53 +8,29 @@
 
 所以，我创建了这个项目。完整的记录自己每天所付出的努力，看看能结一个什么果。
 
-### 2020-10-21
+[2020-10 月记录](2020.10.md)
 
+### 2020-11-1
 #### 听
-1. [iPhone 12 review: new standard](https://www.youtube.com/watch?v=OCnzH7IiHo0&t=56s)
-2. [iPhone 12 Pro review: more shine](https://www.youtube.com/watch?v=71m3SDGa220)
+Friends S0402
+
+### 2020-11-2
+#### 听
+后翼弃兵 6-7 集
+
+### 2020-11-3
+#### 听
+1. [Anya Taylor-Joy From "Emma" Tells Us About Her First Times](https://www.youtube.com/watch?v=yGBrj2azqcc)
+2. [Walkman: The music player revolution - 6 Minute English](https://www.youtube.com/watch?v=NUHIoZFuDAw)
+3. [Back to school](https://www.youtube.com/watch?v=qHE6DBSShXw)
+
+### 2020-11-4
+关注了一天大选
+
+### 2020-11-5
+#### 听
+1. [The Daily Social Distancing Show](https://www.youtube.com/watch?v=JYr_yExSgwk&feature=youtu.be)
+
+### 2020-11-6
 #### 说
-20201021.m4a
-
-### 2020-10-22
-#### 听
-1. [New iPad Air (2020) review](https://www.youtube.com/watch?v=EMwrJjyKzR4)
-2. [The new iPad Air is IMPRESSIVE](https://www.youtube.com/watch?v=A3gUdaSEI0c)
-#### 说
-20201022.m4a
-
-### 2020-10-23
-#### 听
-1. Second 2020 Presidential Debate between Donald Trump and Joe Biden
-
-#### 读
-1. [Swift Closures](https://www.programiz.com/swift-programming/closures)
-
-### 2020-10-24
-看电视剧《继承之战》
-
-### 2020-10-25
-#### 读
-1. The invisible island (chapter 1-5)
-
-### 2020-10-26
-#### 听
-1. Bookmarks S01E01
-2. [Swift Observer & Notification Pattern Tutorial](https://www.youtube.com/watch?v=srqiDnLEocA)
-#### 读
-1. I can tell by touching.
-
-### 2020-10-27
-#### 听
-1. [The Bachelor - SNL](https://www.youtube.com/watch?v=U_mj1CuXrPE)
-2. [American Accent Rules and US Presidential Election](https://www.youtube.com/watch?v=kKVXi4EtrpA)
-#### 说
-2020-10-27.m4a
-
-### 2020-10-29
-#### 听
-1. Friends S04E01
-2. Jeff Flake cuts an ad for Joe Biden
-
-#### 说
-2020-10-29.m4a
+20201106.m4a
