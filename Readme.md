@@ -32,5 +32,31 @@ Friends S0402
 1. [The Daily Social Distancing Show](https://www.youtube.com/watch?v=JYr_yExSgwk&feature=youtu.be)
 
 ### 2020-11-6
+#### 听
+1. [iPhone 12 mini vs 12 vs 12 Pro Max size comparison](https://www.youtube.com/watch?v=j2ToG0VTSug&feature=youtu.be)
+2. 
 #### 说
 20201106.m4a
+
+### 2020-11-8
+### 读
+1. My weird school - Mrs. Dole is out of control. 
+
+### 2020-11-9
+#### 听
+1. [Biden Victory Cold Open - SNL](https://www.youtube.com/watch?v=vJYL4Osyipc)
+2. US election 2020: How US and China's break-up could affect the world
+
+#### 读
+1. [Jill Biden, the future first lady, is keeping her day job.](https://www.nytimes.com/live/2020/11/08/us/election-results/jill-biden-the-future-first-lady-is-keeping-her-day-job)
+
+### 2020-11-10
+#### 听
+1. [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA&t=1129s)
+
+#### 读
+1. My Weird School - Mr. Sunny is Funny chapter1-3
+
+### 2020-11-11
+#### 听
+[Apple Event - One more thing](https://www.apple.com)
