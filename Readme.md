@@ -60,3 +60,22 @@ Friends S0402
 ### 2020-11-11
 #### 听
 [Apple Event - One more thing](https://www.apple.com)
+
+
+### 2020-11-14
+#### 读
+1. My Weird School - Mr. Sunny is Funny chapter
+
+### 2020-11-15
+#### 听 
+1. Friends S04E06
+2. Friends S04E07
+
+### 2020-11-16
+#### 读
+1. Mr. Granite is from another planet!
+2. First day of school
+
+### 2020-11-17
+#### 说
+1. [IMG_7282.mov](IMG_7282.mov)
