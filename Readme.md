@@ -79,3 +79,28 @@ Friends S0402
 ### 2020-11-17
 #### 说
 1. [IMG_7282.mov](IMG_7282.mov)
+
+### 2020-11-18
+#### 听
+1. [M1 MacBook Pro and Air review: Apple delivers](https://www.youtube.com/watch?v=OEaKQ0pxQsg)
+2. mansplaining 对应的中文词是不是就是「爹味」？
+3. [MacBook Air with M1 review: A computing revolution](https://www.tomsguide.com/reviews/macbook-air-2020-m1)
+
+
+ ### 2020-11-19
+ 
+ #### 说
+ 1. [20201119](Speaking/20201119.m4a)
+
+ ### 2020-11-20
+ #### 听
+    1. [SwiftUI 2.0 App Store Animations](https://www.youtube.com/watch?v=J86h1mt5bio&pbjreload=101)
+ 
+ ### 2020-11-21
+ #### 读
+ 1. My wired school - Coach Hyatt is A Riot
+ 
+ ### 2020-11-22
+ #### 读
+ 1. A-Z 之 The Invisible Island
+ 
